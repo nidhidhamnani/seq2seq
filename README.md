@@ -13,4 +13,4 @@ This repo contains implemention of sequence-to-sequence (seq2seq) models using [
 
 ## Acknowledgements
 
-Some part of the code comes from the pytorch-seq2seq repository [here](https://github.com/bentrevett/pytorch-seq2seq)
+Some part of the code come from the pytorch-seq2seq repository [here](https://github.com/bentrevett/pytorch-seq2seq)
