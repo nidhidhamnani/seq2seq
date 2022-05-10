@@ -2,7 +2,7 @@
 
 Built a sequence-to-sequence (seq2seq) model with an attention mechanism for machine translation. Implemented beam search and nucleus sampling strategies for decoding.
 
-For more details please look at `report.pdf`
+For more details please look at [`report.pdf`](https://github.com/nidhidhamnani/seq2seq/blob/main/report.pdf)
 
 ## Getting Started
 
