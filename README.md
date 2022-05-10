@@ -14,3 +14,5 @@ This repo contains implemention of sequence-to-sequence (seq2seq) models using [
 ## Acknowledgements
 
 Some part of the code come from the pytorch-seq2seq repository [here](https://github.com/bentrevett/pytorch-seq2seq)
+
+**Note:** This project was implemented as a part of CSE 291: Structured Prediction for NLP (Spring 2022) at UCSD
